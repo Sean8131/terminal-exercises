@@ -1,3 +1,3 @@
-#Git practice
-##I love Git
-###Git is cool
+# Git practice
+## I love Git
+### Git is cool
